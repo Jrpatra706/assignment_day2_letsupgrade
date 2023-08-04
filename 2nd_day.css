@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+}
+div{
+    background-color: cadetblue;
+    color: rebeccapurple;
+    padding: 2px;
+}
+h1,h2{
+    font-family: 'Handjet', cursive;
+}
+section{
+    border: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.new{
+    margin: 14px;
+}
+li:hover{
+    color: aliceblue;
+}
